@@ -9,3 +9,6 @@
 <img width="1070" alt="Screen Shot 2023-03-19 at 9 58 29 PM" src="https://user-images.githubusercontent.com/102645083/226250534-519fc735-5683-434c-b13f-41a403eccb33.png">
 
 diagram source: https://www.cs.cmu.edu/~16385/s17/Slides/6.2_Harris_Corner_Detector.pdf
+
+## The First Order Taylor Series Expansion for a equation like this is:
+<img width="724" alt="Screen Shot 2023-03-20 at 12 42 45 PM" src="https://user-images.githubusercontent.com/102645083/226448651-4dfcea7e-3b8a-4bca-9e6d-3467a7717663.png">
