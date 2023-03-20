@@ -15,3 +15,6 @@ diagram source: https://www.cs.cmu.edu/~16385/s17/Slides/6.2_Harris_Corner_Detec
 
 ## which means:
 <img width="692" alt="Screen Shot 2023-03-20 at 12 44 28 PM" src="https://user-images.githubusercontent.com/102645083/226449005-5eff7ec2-65f4-4c03-a4bd-a8f494bf1e53.png">
+
+## plugging back into the initial equation, we can cancel out the I(x,y), and get the following:
+<img width="617" alt="Screen Shot 2023-03-20 at 1 03 44 PM" src="https://user-images.githubusercontent.com/102645083/226453080-24a70591-c1f0-4ef2-987b-87f3bccdfffe.png">
