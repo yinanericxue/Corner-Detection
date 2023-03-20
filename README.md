@@ -18,3 +18,11 @@ diagram source: https://www.cs.cmu.edu/~16385/s17/Slides/6.2_Harris_Corner_Detec
 
 ## plugging back into the initial equation, we can cancel out the I(x,y), and get the following:
 <img width="617" alt="Screen Shot 2023-03-20 at 1 03 44 PM" src="https://user-images.githubusercontent.com/102645083/226453080-24a70591-c1f0-4ef2-987b-87f3bccdfffe.png">
+
+## Since the equation in the [] is in quadratic form, we can find the matching second moment matrix and it's eigenvalues.
+
+<img width="359" alt="Screen Shot 2023-03-20 at 1 05 58 PM" src="https://user-images.githubusercontent.com/102645083/226453531-b908f1d2-3086-4ebb-b21f-baaa8c9f9165.png">
+<img width="534" alt="Screen Shot 2023-03-20 at 1 06 16 PM" src="https://user-images.githubusercontent.com/102645083/226453598-d742a486-0e36-4945-af66-0561069cbf1f.png">
+
+## The value of R is later used to determine whether the result is an edge, corner, or flat area, and we need a threshold value for that.
+<img width="520" alt="Screen Shot 2023-03-20 at 1 07 17 PM" src="https://user-images.githubusercontent.com/102645083/226453759-b6b0f4d7-5717-40a9-b43f-8db6d4ed300c.png">
