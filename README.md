@@ -10,5 +10,8 @@
 
 diagram source: https://www.cs.cmu.edu/~16385/s17/Slides/6.2_Harris_Corner_Detector.pdf
 
-## The First Order Taylor Series Expansion for a equation like this is:
+## The First Order Taylor Series Expansion for part of the equation above is:
 <img width="724" alt="Screen Shot 2023-03-20 at 12 42 45 PM" src="https://user-images.githubusercontent.com/102645083/226448651-4dfcea7e-3b8a-4bca-9e6d-3467a7717663.png">
+
+## which means:
+<img width="692" alt="Screen Shot 2023-03-20 at 12 44 28 PM" src="https://user-images.githubusercontent.com/102645083/226449005-5eff7ec2-65f4-4c03-a4bd-a8f494bf1e53.png">
