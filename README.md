@@ -7,3 +7,5 @@
 ## If we have a picture like below and find the gradients of the pixels, we can also see the difference when the filter is on a plain area vs edge vs corner.
 
 <img width="1070" alt="Screen Shot 2023-03-19 at 9 58 29 PM" src="https://user-images.githubusercontent.com/102645083/226250534-519fc735-5683-434c-b13f-41a403eccb33.png">
+
+#### diagram source: https://www.cs.cmu.edu/~16385/s17/Slides/6.2_Harris_Corner_Detector.pdf
